@@ -1,0 +1,735 @@
+@media only screen and (max-width: 1920px) and (min-width: 1680px){
+    #ava h1{
+      color:#F1F2ED;
+      text-align:center;
+      padding-top: 32vh;
+      font-size: 100px;
+    }
+  #ava p{
+    color:#F1F2ED;
+    text-align:center;
+    font-size: 22px;
+    padding-top: 10vh;
+  }
+  #content{
+    height: 1000px;
+    width: 1680px;
+    background-color: #ffffff;
+    overflow-y: hidden;
+    margin: 0px auto;
+  }
+  #stickers img{
+    width: 280px;
+    margin-top: 33px;
+    margin-left: 255px;
+    margin-right: 255px;
+    position: absolute;
+  }
+  #stickers{
+    width: 800px;
+    height: 350px;
+    background-color: #e9c46a;
+    float: right;
+    border-radius: 20px;
+    position: relative;
+  }
+  #stickers a{
+    color: #ffffff;
+    display: block;
+    height: 100%;
+    text-decoration:none;
+    text-align: right;
+    transition-duration: 0.5s;
+    opacity: 0;
+    position: absolute;
+  }
+  #stickers a:hover{
+    opacity: 1;
+    transition-duration: 0.5s;
+    background-color: #0c0c0d65;
+  }
+  #stick{
+    width: 800px;
+  }
+  #stick p{
+    padding-top: 292px;
+    padding-right: 25px;
+    font-size: 35px;
+  }
+  #news img{
+    height: 290px;
+    margin-top: 30px;
+    margin-left: 240px;
+    margin-right: 240px;
+    position: absolute;
+  }
+  #news{
+    width: 800px;
+    height: 350px;
+    background-color: #a8dadc;
+    float: left;
+    margin-top: 120px;
+    border-radius: 20px;
+    position: relative;
+  }
+  #news a{
+    color: #ffffff;
+    display: block;
+    height: 100%;
+    text-decoration:none;
+    text-align: left;
+    transition-duration: 0.5s;
+    opacity: 0;
+    position: absolute;
+  }
+  #news a:hover{
+    opacity: 1;
+    transition-duration: 0.5s;
+    background-color: #0c0c0d65;
+  }
+  #nw{
+    width: 800px;
+  }
+  #nw p{
+    padding-top: 292px;
+    padding-left: 25px;
+    font-size: 35px;
+  } 
+  #stickers-text{
+    width: 800px;
+    height: 350px;
+    float: left;
+  }
+  #stickers-text p{
+    font-size: 24px;
+    padding-top: 80px;
+    text-align: center;
+  }
+  #news-text{
+    width: 800px;
+    height: 350px;
+    float: right;
+    margin-top: 120px;
+  }
+  #news-text p{
+    padding-top: 150px;
+    font-size:24px;
+    text-align: center;
+  }
+  }
+  @media only screen and (max-width: 1680px) and (min-width: 1420px){
+  #ava h1{
+    color:#ffffff;
+    text-align:center;
+    padding-top: 32vh;
+    font-size: 100px;
+  }
+  #ava p{
+    color:#ffffff;
+    text-align:center;
+    font-size: 22px;
+    padding-top: 10vh;
+  }
+  #content{
+    height: 900px;
+    width: 1500px;
+    margin: 0px auto;
+    background-color: #ffffff;
+    overflow-y: hidden;
+  }
+  #stickers img{
+    width: 250px;
+    margin-top: 30px;
+    margin-left: 210px;
+    margin-right: 210px;
+    position: absolute;
+  }
+  #stickers{
+    width: 650px;
+    height: 300px;
+    background-color: #e9c46a;
+    float: right;
+    border-radius: 30px;
+    position: relative;
+  }
+  #stickers a{
+    color: #ffffff;
+    display: block;
+    height: 100%;
+    text-decoration:none;
+    text-align: right;
+    transition-duration: 0.5s;
+    opacity: 0;
+    position: absolute;
+    border-radius: 30px;
+  }
+  #stickers a:hover{
+    opacity: 1;
+    transition-duration: 0.5s;
+    background-color: #0c0c0d65;
+  }
+  #stick{
+    width: 650px;
+  }
+  #stick p{
+    padding-top: 250px;
+    padding-right: 25px;
+    font-size: 30px;
+  }
+  #news{
+    width: 650px;
+    height: 300px;
+    background-color: #a8dadc;
+    float: left;
+    margin-top: 120px;
+    border-radius: 30px;
+    position: relative;
+  }
+  #news img{
+    height: 250px;
+    margin-top: 25px;
+    margin-left: 190px;
+    margin-right: 190px;
+    position: absolute;
+  }
+  #news a{
+    color: #ffffff;
+    display: block;
+    height: 100%;
+    text-decoration:none;
+    text-align: left;
+    transition-duration: 0.5s;
+    opacity: 0;
+    position: absolute;
+  }
+  #news a:hover{
+    opacity: 1;
+    transition-duration: 0.5s;
+    background-color: #0c0c0d65;
+  }
+  #nw{
+    width: 650px;
+  }
+  #nw p{
+    padding-top: 250px;
+    padding-left: 25px;
+    font-size: 30px;
+  }
+  #stickers-text{
+    width: 650px;
+    height: 300px;
+    float: left;
+  }
+  #stickers-text p{
+    padding-top: 60px;
+    font-size:20px;
+    text-align: center;
+  }
+  #news-text{
+    width: 650px;
+    height: 300px;
+    float: right;
+    margin-top: 120px; 
+  }
+  #news-text p{
+    padding-top: 120px;
+    font-size:20px;
+    text-align: center;
+  }
+  }
+  @media only screen and (max-width: 1420px) and (min-width: 1010px){
+    #ava h1{
+      color:#ffffff;
+      text-align:center;
+      padding-top: 32vh;
+      font-size: 70px;
+    }
+    #ava p{
+      color:#ffffff;
+      text-align:center;
+      font-size: 19px;
+      padding-top: 10vh;
+    }
+    #content{
+      height: 800px;
+      width: 1100px;
+      margin: 0px auto;
+      background-color: #fffFff;
+      overflow-y: hidden;
+    }
+    #stickers img{
+      width: 210px;
+      margin-top: 20px;
+      margin-left: 150px;
+      margin-right: 150px;
+      position: absolute;
+    }
+    #stickers{
+      width: 520px;
+      height: 250px;
+      background-color: #e9c46a;
+      float: right;
+      margin: 20x;
+      border-radius: 30px;
+      position: relative;
+    }
+    #stickers a{
+      color: #ffffff;
+      display: block;
+      height: 100%;
+      text-decoration:none;
+      text-align: right;
+      transition-duration: 0.5s;
+      opacity: 0;
+      position: absolute;
+    }
+    #stickers a:hover{
+      opacity: 1;
+      transition-duration: 0.5s;
+      background-color: #0c0c0d65;
+    }
+    #stick{
+      width: 520px;
+    }
+    #stick p{
+      padding-top: 200px;
+      padding-right: 20px;
+      font-size: 30px;
+    }
+    #news{
+      width: 520px;
+      height: 250px;
+      background-color: #a8dadc;
+      float: left;
+      margin-top: 120px;
+      border-radius: 30px;
+      position: relative;
+    }
+    #news img{
+      height: 210px;
+      margin-top: 20px;
+      margin-left: 150px;
+      margin-right: 155px;
+      position: absolute;
+    }
+    #news a{
+      color: #ffffff;
+      display: block;
+      height: 100%;
+      text-decoration:none;
+      text-align: left;
+      transition-duration: 0.5s;
+      opacity: 0;
+      position: absolute;
+    }
+    #news a:hover{
+      opacity: 1;
+      transition-duration: 0.5s;
+      background-color: #0c0c0d65;
+    }
+    #nw{
+      width: 520px;
+    }
+    #nw p{
+      padding-top: 200px;
+      padding-left: 20px;
+      font-size: 30px;
+    }
+    #stickers-text{
+      width: 520px;
+      height: 250px;
+      float: left;
+    }
+    #stickers-text p{
+      font-size:18px;
+      padding-top: 35px;
+      text-align: center;
+    }
+    #news-text{
+      width: 520px;
+      height: 250px;
+      float: right;
+      margin-top: 120px;
+    }
+    #news-text p{
+      padding-top: 100px;
+      font-size:17px;
+      text-align: center;
+    }
+  }
+  @media only screen and (max-width: 1110px) and (min-width: 700px){
+    #ava h1{
+      color:#ffffff;
+      text-align:center;
+      padding-top: 32vh;
+      font-size: 50px;
+    }
+    #ava p{
+      color:#ffffff;
+      text-align:center;
+      font-size: 19px;
+      padding-top: 5vh;
+    }
+    #content{
+      height: 1100px;
+      width: 700px;
+      background-color: #ffffff;
+      overflow-y: hidden;
+      margin: 0px auto;
+    }
+    #stickers img{
+      width: 250px;
+      margin-top: 30px;
+      margin-left: 220px;
+      margin-right: 150px;
+      position: absolute;
+    }
+    #stickers{
+      width: 700px;
+      height: 300px;
+      background-color: #e9c46a;
+      float: right;
+      margin-top: 20xp;
+      border-radius: 20px;
+      position: relative;
+    }
+    #stickers a{
+      color: #ffffff;
+      display: block;
+      height: 100%;
+      text-decoration:none;
+      text-align: right;
+      transition-duration: 0.5s;
+      opacity: 0;
+      position: absolute;
+    }
+    #stickers a:hover{
+      opacity: 1;
+      transition-duration: 0.5s;
+      background-color: #0c0c0d65;
+    }
+    #stick{
+      width: 700px;
+    }
+    #stick p{
+      padding-top: 250px;
+      padding-right: 20px;
+      font-size: 30px;
+    }
+    #news{
+      width: 700px;
+      height: 300px;
+      background-color: #a8dadc;
+      float: left;
+      margin-top: 50px;
+      border-radius: 30px;
+      position: relative;
+    }
+    #news img{
+      height: 250px;
+      margin-top: 30px;
+      margin-left: 215px;
+      margin-right: 215px;
+      position: absolute;
+    }
+    #news a{
+      color: #ffffff;
+      display: block;
+      height: 100%;
+      text-decoration:none;
+      text-align: left;
+      transition-duration: 0.5s;
+      opacity: 0;
+      position: absolute;
+    }
+    #news a:hover{
+      opacity: 1;
+      transition-duration: 0.5s;
+      background-color: #0c0c0d65;
+    }
+    #nw{
+      width: 700px;
+    }
+    #nw p{
+      padding-top: 250px;
+      padding-left: 20px;
+      font-size: 30px;
+    }
+    #stickers-text{
+      width: 700px;
+      height: 200px;
+      float: left;
+    }
+    #news-text{
+      width: 700px;
+      height: 70px;
+      float: right;
+      margin-top: 40px;
+    }
+    #news-text p{
+      font-size: 18px;
+      padding: 10px;
+      text-align: center;
+    }
+    #stickers-text p{
+      font-size: 18px;
+      padding: 10px;
+      text-align: center;
+    }
+  }
+  @media only screen and (max-width: 700px) and (min-width: 100px){
+    #ava h1{
+      color:#ffffff;
+      text-align:center;
+      padding-top: 32vh;
+      font-size: 50px;
+    }
+    #ava p{
+      color:#ffffff;
+      text-align:center;
+      font-size: 19px;
+      padding-top: 5vh;
+    }
+    #content{
+      height: 1250px;
+      width: 480px;
+      background-color: #ffffff;
+      overflow-y: hidden;
+      margin: 0px auto;
+    }
+    #stickers img{
+      width: 280px;
+      margin-top: 30px;
+      margin-left: 105px;
+      margin-right: 105px;
+      position: absolute;
+    }
+    #stickers{
+      width: 480px;
+      height: 350px;
+      background-color: #e9c46a;
+      float: right;
+      margin-top: 20xp;
+      border-radius: 20px;
+      position: relative;
+    }
+    #stickers a{
+      color: #ffffff;
+      display: block;
+      height: 100%;
+      text-decoration:none;
+      text-align: center;
+      transition-duration: 0.5s;
+      opacity: 0;
+      position: absolute;
+    }
+    #stickers a:hover{
+      opacity: 1;
+      transition-duration: 0.5s;
+      background-color: #0c0c0d65;
+    }
+    #stick{
+      width: 480px;
+    }
+    #stick p{
+      padding-top: 310px;
+      font-size: 25px;
+    }
+    #news{
+      width: 480px;
+      height: 350px;
+      background-color: #a8dadc;
+      float: left;
+      margin-top: 50px;
+      border-radius: 30px;
+      position: relative;
+    }
+    #news img{
+      height: 260px;
+      margin-top: 45px;
+      margin-left: 100px;
+      margin-right: 125px;
+      position: absolute;
+    }
+    #news a{
+      color: #ffffff;
+      display: block;
+      height: 100%;
+      text-decoration:none;
+      text-align: center;
+      transition-duration: 0.5s;
+      opacity: 0;
+      position: absolute;
+    }
+    #news a:hover{
+      opacity: 1;
+      transition-duration: 0.5s;
+      background-color: #0c0c0d65;
+    }
+    #nw{
+      width: 480px;
+    }
+    #nw p{
+      padding-top: 310px;
+      font-size: 25px;
+    }
+    #stickers-text{
+      width: 480px;
+      height: 240px;
+      float: left;
+    }
+    #news-text{
+      width: 480px;
+      height: 70px;
+      float: right;
+      margin-top: 40px;
+    }
+    #stickers-text p{
+      font-size: 17px;
+      text-align: center;
+      padding: 10px;
+    }
+    #news-text p{
+      font-size: 17px;
+      text-align: center;
+      padding: 10px;
+    }
+  }
+  * {
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+  }
+  #container{ 
+    height: 100%;
+    width: 100%;
+    float: left;
+  }
+  #ava{
+    height: 100vh;
+    background-color: #2C2E3D;
+  }
+  h1{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  p{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+  h3{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+  a{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+  
+  
+  #info{
+    height:400px;
+    width: 100%;
+    background-color: #ffffff;
+    padding-top: 5vh;
+  }
+  #info- h1{
+    text-align: center;
+  }
+  #info-{
+    border-bottom: #2C2E3D 3px inset;
+    margin: auto;
+    height: 60px;
+    width: 210px;
+    font-size: 18px;
+  }
+  #info p{
+    text-align:center;
+    font-size: 19px;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+  }
+  #footer{
+    background-color: rgb(18, 18, 18);
+    width: 100%;
+    height: 200px;
+    clear: both;
+  }
+  #info a {
+   padding: 10px 20px 10px 20px;
+   background-color: #5C7D7A;
+   border-radius: 40px;
+   text-decoration: none;
+   color:#ffffff;
+   font-size: 17px;
+   margin: auto;
+   display:table;
+   transition-duration: 0.5s;
+  }
+  #info a:hover{
+    background-color: #566362;
+    transition-duration: 0.5s;
+    color: #b3b3b3;
+  }
+  body::-webkit-scrollbar {
+    width: 7px;
+    height: 7px;
+    
+  }
+  body::-webkit-scrollbar-thumb {
+    background-color: #7a7a7a;
+    border-radius: 20px;
+    
+  }
+  #footer p{
+    color: #d3d3d3;
+    font-size: 17px;
+    margin-left: 50px;
+    margin-top: 15px;
+  }
+  h3{
+    color: #d3d3d3;
+    text-decoration: none;
+    text-align: left;
+    margin-left: 50px;
+    margin-top: 20px;
+    display: block;
+    width: 83px;
+    transition-duration: 0.5s;
+    cursor: pointer;
+  }
+  h3:hover {
+    color: #3a86ff;
+    transition-duration: 0.5s;
+  }
+  .footer1{
+    color: #d3d3d3;
+    text-decoration: none;
+    text-align: left;
+    margin-left: 50px;
+    padding-top: 20px;
+    display: block;
+    width: 165px;
+    transition-duration: 0.5s;
+  }
+  .footer1:hover {
+    color: #3a86ff;
+    transition-duration: 0.5s;
+  }
+  #verh{
+    padding: 10px 100px 10px 100px;
+    border-color: #353535;
+    border-width: 1px;
+    border-style: outset;
+    border-radius: 35px;
+    text-decoration: none;
+    color:#353535;
+    font-size:22px;
+    margin: auto;
+    background-color: #ffffff;
+    margin-top: 70px;
+    display:table;
+    transition-duration: 0.5s;
+    cursor: pointer;
+   }
+   #verh:hover{
+     transition-duration: 0.5s;
+     color: #3a86ff;
+     border-color: #6c757d;
+   }
